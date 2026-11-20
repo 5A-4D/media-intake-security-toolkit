@@ -1,0 +1,8 @@
+{
+  "total_bytes": 100,
+  "method": "raw_windows",
+  "windows": [
+    {"offset": 0, "length": 60, "exit_code": 0},
+    {"offset": 40, "length": 60, "exit_code": 0}
+  ]
+}
